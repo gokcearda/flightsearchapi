@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
   <component name="AdditionalModuleElements">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flightsearchapi/src/main/java/com/example/flightsearchapi/controller" />
+      <excludeFolder url="file://$MODULE_DIR$/flightsearchapi/src/main/java/com/example/flightsearchapi/model" />
+      <excludeFolder url="file://$MODULE_DIR$/flightsearchapi/src/main/java/com/example/flightsearchapi/service" />
+      <excludeFolder url="file://$MODULE_DIR$/flightsearchapi/src/main/java/com/example/flightsearchapi/repository" />
+    </content>
   </component>
 </module>
