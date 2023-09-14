@@ -6,6 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/flightsearchapi/src/main/java/com/example/flightsearchapi/model" />
       <excludeFolder url="file://$MODULE_DIR$/flightsearchapi/src/main/java/com/example/flightsearchapi/service" />
       <excludeFolder url="file://$MODULE_DIR$/flightsearchapi/src/main/java/com/example/flightsearchapi/repository" />
+      <excludeFolder url="file://$MODULE_DIR$/flightsearchapi/src/main/java/com/example/flightsearchapi/config" />
     </content>
   </component>
 </module>
