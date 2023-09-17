@@ -33,7 +33,7 @@ public class FlightController {
 
     @PutMapping("/{id}")
     public Flight updateFlight(@PathVariable Long id, @RequestBody Flight flight) {
-        flight.setId(id);  // Make sure the ID is set
+        flight.setId(id);
         return flightService.updateFlight(flight);
     }
 

@@ -48,5 +48,5 @@ public class Airport {
                 '}';
     }
 
-    // Optionally, you can also override equals() and hashCode() here.
+
 }
